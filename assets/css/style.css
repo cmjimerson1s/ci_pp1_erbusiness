@@ -11,3 +11,15 @@ body {
 header {
     background-color: red;
 }
+
+#page_links ul {
+    text-align: center;
+}
+#page_links li {
+    display: inline;
+    text-decoration: none;
+}
+
+#page_links a {
+    text-decoration: none;
+}

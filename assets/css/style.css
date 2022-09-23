@@ -8,6 +8,10 @@ body {
 
 }
 
+#logo {
+    text-align: center;
+}
+
 header {
     background-color: red;
 }
@@ -23,3 +27,4 @@ header {
 #page_links a {
     text-decoration: none;
 }
+

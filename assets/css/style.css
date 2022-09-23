@@ -10,8 +10,14 @@ body {
 
 }
 
+h1, h2 {
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 2px;
+}
+
 #logo {
     text-align: center;
+    padding: 10px;
 }
 
 header {
@@ -20,6 +26,7 @@ header {
 
 #page_links ul {
     text-align: center;
+    padding-bottom: 5px;
 }
 #page_links li {
     display: inline;

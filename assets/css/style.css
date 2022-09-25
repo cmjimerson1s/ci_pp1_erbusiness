@@ -48,6 +48,7 @@ header {
 #page_links a {
     text-decoration: none;
     color: aliceblue;
+    text-shadow: 1px 1px black;
 }
 
 #img_container {

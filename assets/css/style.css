@@ -75,6 +75,21 @@ header {
     padding-top: 15px;
 }
 
+#icon_team {
+    display: flex;
+}
+
+#icon_puzzle {
+    display: flex;
+    justify-content: center;
+}
+
+#icon_fun {
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+}
+
 footer {
     background-color: rgb(205, 127, 50);
     height: 75px;

@@ -21,7 +21,7 @@ h1, h2 {
 }
 
 header {
-    background-color: red;
+    background-color: rgb(205, 127, 50);
 }
 
 #page_links ul {
@@ -55,4 +55,11 @@ header {
     background-position: center;
 }
 
+.content_body {
+    margin-left: 10px;
+}
+
+#what_is {
+    padding-top: 15px;
+}
 

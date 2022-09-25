@@ -125,6 +125,18 @@ button a {
     text-shadow: 1px 1px black;
 }
 
+.staff_image_container {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
 footer {
     background-color: rgb(205, 127, 50);
     height: 75px;

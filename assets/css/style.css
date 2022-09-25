@@ -66,6 +66,11 @@ header {
     margin-right: 10px;    
 }
 
+.icon {
+    color: rgb(205, 127, 50);
+    text-shadow: 1px 1px black;
+}
+
 #what_is {
     padding-top: 15px;
 }

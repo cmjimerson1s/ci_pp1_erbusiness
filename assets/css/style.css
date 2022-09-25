@@ -56,7 +56,7 @@ header {
     text-shadow: 1px 1px black;
 }
 
-#title_fix {
+.title_fix {
     letter-spacing: 1px;
 }
 

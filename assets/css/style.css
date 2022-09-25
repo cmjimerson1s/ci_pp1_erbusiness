@@ -96,6 +96,12 @@ header {
     padding-right: 10px;
 }
 
+button {
+    font-family: 'Staatliches', cursive;
+    background-color: rgb(205, 127, 50);
+    color: aliceblue;
+}
+
 footer {
     background-color: rgb(205, 127, 50);
     height: 75px;

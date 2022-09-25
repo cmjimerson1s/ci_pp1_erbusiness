@@ -64,3 +64,10 @@ header {
     padding-top: 15px;
 }
 
+footer {
+    background-color: rgb(205, 127, 50);
+    height: 75px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

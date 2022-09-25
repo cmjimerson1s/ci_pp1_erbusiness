@@ -10,7 +10,13 @@ body {
     font-family:  'Raleway', sans-serif;
 }
 
-h1, h2, h3 {
+h1 {
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px rgb(255, 255, 255);
+} 
+
+h2, h3 {
     font-family: 'Staatliches', cursive;
     letter-spacing: 2px;
     text-shadow: 1px 1px rgb(205, 127, 50);

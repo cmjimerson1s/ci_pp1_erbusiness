@@ -140,9 +140,21 @@ button a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    border: 3px solid rgb(205, 127, 50);
     border-radius: 50%;
-    height: 50%;
-    width: 50%;
+    height: 75%;
+    width: 75%;
+}
+
+.staff_title_container {
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+.staff_txt_container {
+    display: flex;
+    justify-content: center;
 }
 
 /* img {

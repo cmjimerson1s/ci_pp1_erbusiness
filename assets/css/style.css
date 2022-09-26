@@ -188,6 +188,23 @@ button a {
     padding-bottom: 25px ;
 }
 
+.main_box {
+    display: flex;
+    justify-content: center;
+}
+
+.room_box {
+    width: 300px;
+    height: 450px;
+    background-color: rgb(205, 127, 50);
+    margin: 20px;
+}
+
+#room_img_pirate {
+    height: 200px;
+    margin-bottom: 10px;
+}
+
 footer {
     background-color: rgb(205, 127, 50);
     height: 75px;

@@ -159,6 +159,19 @@ button a {
     width: 75%;
 }
 
+#img_cto {
+    justify-content: center;
+    background-image: url('../images/pexels-andrea-piacquadio-3779760.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 0;
+    background-size: cover;
+    border: 4px solid rgb(205, 127, 50);
+    border-radius: 50%;
+    height: 75%;
+    width: 75%;
+}
+
 .staff_title_container {
     display: flex;
     justify-content: center;

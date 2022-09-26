@@ -191,6 +191,7 @@ button a {
 .main_box {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 .room_box {
@@ -210,11 +211,47 @@ button a {
     margin: 10px;
 }
 
+#room_img_zombie {
+    background-image: url('../images/zombie.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    margin: 10px;
+}
+
+#room_img_alien {
+    background-image: url('../images/alien.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    margin: 10px;
+}
+
 .room_title {
     text-align: center;
     text-shadow: 1px 1px aliceblue;
     padding-bottom: 5px;
 }
+
+.room_desc {
+    padding: 0px 10px;
+}
+
+.book_now_rooms {
+    display: flex;
+    justify-content: center;
+}
+
+.button_rooms {  
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 2px;
+    background-color: rgb(0, 0, 0);
+    margin: 25px 0 ;
+    padding: 12px;
+}
+
 footer {
     background-color: rgb(205, 127, 50);
     height: 75px;

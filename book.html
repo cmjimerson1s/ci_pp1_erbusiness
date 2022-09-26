@@ -38,11 +38,22 @@
 <body>
     <section id="newsletter">
         <form action="POST">
-            <input type="text" name="fname" id="first_name">
-            <input type="text" name="lname" id="last_name">
+            <label for="fname">First Name</label>
+            <input type="text" name="first_name" id="fname">
+            <label for="lname">Last Name</label>
+            <input type="text" name="last_name" id="lname">
+            <label for="booking_email">Email</label>
             <input type="email" name="email" id="booking_email">
+            <label for="booking_date">Booking Date</label>
             <input type="date" name="date" id="booking_date">
+            <label for="booking_time">Booking Time</label>
             <input type="time" name="time" id="booking_time">
+            <label for="pirate">Pirate Adventure</label>
+            <input type="radio" name="pirate_room" id="pirate">
+            <label for="Zombie">Zombie Attack</label>
+            <input type="radio" name="zombie_room" id="zombie">
+            <label for="alien">Alien Escape</label>
+            <input type="radio" name="alien_room" id="alien">
         </form>
 
     </section>

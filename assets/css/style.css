@@ -125,13 +125,22 @@ button a {
     text-shadow: 1px 1px black;
 }
 
+#our_staff {
+    width: 100%;
+}
+
+#staff_box_1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
 .staff_img_container {
     width: 375px;
     height: 375px;
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: red; */
 }
 
 #img_ceo {

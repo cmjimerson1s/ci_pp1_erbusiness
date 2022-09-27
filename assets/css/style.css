@@ -135,6 +135,18 @@ button a {
     justify-content: center;
 }
 
+#staff_box_2 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#staff_box_3 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
 .staff_img_container {
     width: 375px;
     height: 375px;

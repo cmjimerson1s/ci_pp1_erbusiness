@@ -355,15 +355,29 @@ td:first-child {
 #fourofour_page {
     display: flex;
     font-size: large;
-    height: 512px;
+    height: 402px;
     justify-content: center;
-    align-items: center;
+    margin-top: 40px;
+    /* align-items: center; */
 }
 
 #fourofour_page h1 {
     height: 300px;
     width: 300px;
     text-align: center;
+    text-shadow: 2px 2px rgb(205, 127, 50);
+}
+
+#fourofour_page a {
+    color: rgb(205, 127, 50);
+    text-shadow: 2px 2px black;
+}
+
+#error_heading {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    text-shadow: 2px 2px rgb(205, 127, 50);
 }
 
 footer {

@@ -156,14 +156,10 @@ button {
         background-position: center;
     }
 
-    /* .book_now {
-        height: 18vh;
-    } */
-
-    button {
+    /* button {
         padding: 30px;
         border: 2px solid black;
-    }
+    } */
 
     #main_button {
         font-size: 25px;
@@ -171,7 +167,6 @@ button {
     }
 
 }
-
 
 button a {
     text-decoration: none;
@@ -308,6 +303,7 @@ button a {
     text-align: center;
     text-shadow: 1px 1px aliceblue;
     padding-bottom: 5px;
+    font-size: 25px !important;
 }
 
 #room_text_box {

@@ -352,6 +352,20 @@ td:first-child {
     padding-right: 5px;
 }
 
+#fourofour_page {
+    display: flex;
+    font-size: large;
+    height: 512px;
+    justify-content: center;
+    align-items: center;
+}
+
+#fourofour_page h1 {
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+
 footer {
     background-color: rgb(205, 127, 50);
     height: 75px;

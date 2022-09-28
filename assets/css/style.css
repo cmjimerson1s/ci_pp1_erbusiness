@@ -128,7 +128,60 @@ button a {
     text-shadow: 1px 1px black;
 }
 
-#our_staff {
+.staff_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.staff_box {
+    width: 350px;
+    height: 500px;
+    margin: 30px 20px 20px 20px;
+}
+
+#ceo_img {
+    background-image: url('../images/ceo_profile_pic.jpg');
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid rgb(205, 127, 50);
+    border-radius: 50%;
+}
+
+#cmo_img {
+    background-image: url('../images/cmo_profile_pic.jpg');
+    height: 350px;
+    background-position: center;
+    background-position-y: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid rgb(205, 127, 50);
+    border-radius: 50%;
+}
+
+#cto_img {
+    background-image: url('../images/cto_profile_pic.jpg');
+    height: 350px;
+    background-position: center;
+    background-position-x: 30;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid rgb(205, 127, 50);
+    border-radius: 50%;
+}
+
+.staff_title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.staff_name {
+    text-align: center;
+    font-size: 30px;
+}
+/* #our_staff {
     width: 100%;
     display: flex;
 }
@@ -212,7 +265,7 @@ button a {
 
 #staff_footer_break {
     padding-bottom: 25px ;
-}
+} */
 
 .main_box {
     display: flex;
@@ -365,6 +418,9 @@ td:first-child {
     padding-right: 5px;
 }
 
+.top_box {
+    margin-bottom: 30px;
+}
 @media screen and (min-width: 900px) {
 
     #logo {
@@ -402,6 +458,11 @@ td:first-child {
     #main_img {
         background-size: cover;
         background-position: center;
+    }
+
+    #er_list {
+       text-align: center;
+       padding-bottom: 30px;
     }
 
     /* button {

@@ -130,22 +130,24 @@ button a {
 
 #our_staff {
     width: 100%;
+    display: flex;
 }
 
 #staff_box_1 {
-    width: 100%;
+    width: 300px;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }
 
 #staff_box_2 {
-    width: 100%;
+    width: 300px;
     display: flex;
     justify-content: center;
 }
 
 #staff_box_3 {
-    width: 100%;
+    width: 300px;
     display: flex;
     justify-content: center;
 }

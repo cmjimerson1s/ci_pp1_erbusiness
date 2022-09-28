@@ -465,6 +465,15 @@ td:first-child {
        padding-bottom: 30px;
     }
 
+    .staff_container {
+        padding-top: 75px;
+    }
+
+    #staff_hr {
+        padding-top: 140px;
+    }
+
+
     /* button {
         padding: 30px;
         border: 2px solid black;
@@ -526,6 +535,24 @@ td:first-child {
 
     .contact_box {
         margin: 0 50px 0 50px;
+    }
+
+    #form_box {
+        height: 550px;
+        width: 450px;
+    }
+
+    #form_box label {
+        font-size: 25px;
+    }
+
+    .form_input {
+        height: 30px;
+    }
+
+    #submit_button input {
+        margin-left: 128px;
+        
     }
 }
 

@@ -285,6 +285,84 @@ button a {
     margin: 0;
     padding: 12px;
 }
+
+#newsletter {
+    background-image: url('../images/puzzle_background.jpg');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#form_box {
+    height: 450px;
+    width: 350px;
+    margin: 25px 0;
+    padding: 10px;
+    background-color: rgba(205, 127, 50, 0.7)
+}
+
+.form_input {
+    width: 100%;
+    height: 24px;
+    border: 1px solid black;
+    background-color: white;
+    margin: 5px 0;
+}
+
+#room_button_select {
+    display: inline;
+}
+
+#room_button_select input {
+    margin: 15px;
+}
+
+#submit_button  input {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    text-shadow: 1px 1px rgb(205, 127, 50);
+    padding: 10px;
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 3px;
+    margin-left: 75px;
+}
+
+.contact_container {
+    text-align: center;
+    height: 350px;
+    margin: 25px 0 50px 15px;
+}
+
+.contact_container h3 {
+    margin: 0 10px;
+}
+
+.contact_container table {
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#hours_table {
+    border: 1px solid black;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+
+#hours_table th {
+    background-color: rgb(205, 127, 50);
+    color: aliceblue;
+    border: 1px solid black;
+    text-shadow: 1px 1px black;
+}
+
+td:first-child {
+    padding-right: 5px;
+}
+
 @media screen and (min-width: 900px) {
 
     #logo {
@@ -368,77 +446,24 @@ button a {
     .button_rooms { 
         padding: 20px;
         font-size: 16px;
-}
-}
+    }
 
-#newsletter {
-    background-image: url('../images/puzzle_background.jpg');
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    height: 100vh;
-    justify-content: center;
-    align-items: center;
-}
+    .top_box {
+        justify-content: center;
+        width: 100%;
+        display: flex;
+        margin: 100px 0 100px 0;
+    }
 
-#form_box {
-    height: 450px;
-    width: 350px;
-    margin: 25px 0;
-    padding: 10px;
-    background-color: rgba(205, 127, 50, 0.7)
-}
+    .bottom_box {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    }
 
-.form_input {
-    width: 100%;
-    height: 24px;
-    border: 1px solid black;
-    background-color: white;
-    margin: 5px 0;
-}
-
-#room_button_select {
-    display: inline;
-}
-
-#room_button_select input {
-    margin: 15px;
-}
-
-#submit_button  input {
-    background-color: rgb(0, 0, 0);
-    color: aliceblue;
-    text-shadow: 1px 1px rgb(205, 127, 50);
-    padding: 10px;
-    font-family: 'Staatliches', cursive;
-    letter-spacing: 3px;
-    margin-left: 75px;
-}
-
-.contact_container {
-    height: 350px;
-    margin: 25px 0 50px 15px;
-}
-
-.contact_container h3 {
-    margin: 0 10px;
-}
-
-#hours_table {
-    border: 1px solid black;
-    padding: 2px;
-    margin-bottom: 10px;
-}
-
-#hours_table th {
-    background-color: rgb(205, 127, 50);
-    color: aliceblue;
-    border: 1px solid black;
-    text-shadow: 1px 1px black;
-}
-
-td:first-child {
-    padding-right: 5px;
+    .contact_box {
+        margin: 0 50px 0 50px;
+    }
 }
 
 #fourofour_page {

@@ -8,6 +8,7 @@
 
 body {
     font-family:  'Raleway', sans-serif;
+    min-height: 100vh !important;
 }
 
 h1 {
@@ -128,13 +129,13 @@ button a {
     text-shadow: 1px 1px black;
 }
 
-@media screen and (min-height: 820px) {
+/* @media screen and (min-height: 820px) {
 
     #img_container {
         height: 500px;
         width: 100%;
     }
-}
+} */
 
 .staff_container {
     display: flex;

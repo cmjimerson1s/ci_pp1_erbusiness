@@ -23,6 +23,8 @@ h2, h3 {
     text-shadow: 1px 1px rgb(205, 127, 50);
 }
 
+/* Header and Nav styling section */
+
 #logo {
     text-align: center;
     padding: 10px;
@@ -63,6 +65,8 @@ header {
     letter-spacing: 1px;
 }
 
+/* Hero Image styling and section */
+
 #img_container {
     width: 100%;
     height: 300px;  
@@ -75,6 +79,8 @@ header {
     background-size: cover;
     background-position: center;
 }
+
+/* Home Page What Is... section and Reasons List */
 
 .content_body {
     margin-left: 15px;
@@ -93,6 +99,8 @@ header {
 #what_is {
     padding-top: 15px;
 }
+
+/* Home Page Call to Action Book Now Button */
 
 .book_now {
     display: flex;
@@ -113,6 +121,10 @@ button a {
     color: aliceblue;
     text-shadow: 1px 1px black;
 }
+
+/* About page starts here */
+
+/* Staff Boxes Styling section */
 
 .staff_container {
     display: flex;
@@ -167,6 +179,10 @@ button a {
     text-align: center;
     font-size: 30px;
 }
+
+/* Room page styling begins here */
+
+/* Responsive cards for displaying the rooms */
 
 .main_box {
     display: flex;
@@ -227,6 +243,8 @@ button a {
     padding: 0px 10px;
 }
 
+/* Book now button listed below the rooms */
+
 .book_now_rooms {
     display: flex;
     /* height: 80px; */
@@ -241,6 +259,8 @@ button a {
     margin: 0;
     padding: 12px;
 }
+
+/* Book Now page  */
 
 #newsletter {
     background-image: url('../images/puzzle_background.jpg');
@@ -286,6 +306,8 @@ button a {
     margin-left: 75px;
 }
 
+/* Contact Us page  */
+
 .contact_container {
     text-align: center;
     height: 350px;
@@ -322,7 +344,56 @@ td:first-child {
 .top_box {
     margin-bottom: 30px;
 }
+
+/* Custom 404 Page styling */
+
+#fourofour_page {
+    display: flex;
+    font-size: large;
+    height: 402px;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+#fourofour_page h1 {
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    text-shadow: 2px 2px rgb(205, 127, 50);
+}
+
+#fourofour_page a {
+    color: rgb(205, 127, 50);
+    text-shadow: 2px 2px black;
+}
+
+#error_heading {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    text-shadow: 2px 2px rgb(205, 127, 50);
+}
+
+/* Footer styling that spans all pages  */
+
+footer {
+    background-color: rgb(205, 127, 50);
+    height: 75px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer a {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+/* Media inquires for more responsive design below */
+
 @media screen and (min-width: 900px) {
+
+    /* Code to make the header fit larger screens better */
 
     #logo {
         font-size: 25px;
@@ -345,6 +416,8 @@ td:first-child {
         letter-spacing: 2px;
     }
 
+    /* Hero image and Home page adjustments for wider screens */
+
     #img_container {
         height: 60vh;
         width: 100%;
@@ -366,6 +439,13 @@ td:first-child {
        padding-bottom: 30px;
     }
 
+    #main_button {
+        font-size: 25px;
+        text-shadow: 3px 3px black;
+    }
+
+    /* Staff page adjustments to have better spacing of the staff container */
+
     .staff_container {
         padding-top: 75px;
     }
@@ -374,10 +454,7 @@ td:first-child {
         padding-top: 140px;
     }
 
-    #main_button {
-        font-size: 25px;
-        text-shadow: 3px 3px black;
-    }
+    /* Room page adjustments to adjust image size and spacing */
 
     #room_img_pirate {
         height: 250px;
@@ -415,6 +492,8 @@ td:first-child {
         font-size: 16px;
     }
 
+    /* Contact page adjustments to fit the content in a better way */
+
     .top_box {
         justify-content: center;
         width: 100%;
@@ -431,6 +510,8 @@ td:first-child {
     .contact_box {
         margin: 0 50px 0 50px;
     }
+
+    /* Book now page adjustments to make the form larger and positioned better */
 
     #form_box {
         height: 550px;
@@ -449,44 +530,4 @@ td:first-child {
         margin-left: 128px;
         
     }
-}
-
-#fourofour_page {
-    display: flex;
-    font-size: large;
-    height: 402px;
-    justify-content: center;
-    margin-top: 40px;
-}
-
-#fourofour_page h1 {
-    height: 300px;
-    width: 300px;
-    text-align: center;
-    text-shadow: 2px 2px rgb(205, 127, 50);
-}
-
-#fourofour_page a {
-    color: rgb(205, 127, 50);
-    text-shadow: 2px 2px black;
-}
-
-#error_heading {
-    margin-top: 30px;
-    display: flex;
-    justify-content: center;
-    text-shadow: 2px 2px rgb(205, 127, 50);
-}
-
-footer {
-    background-color: rgb(205, 127, 50);
-    height: 75px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-}
-
-footer a {
-    color: aliceblue;
-    font-size: 20px;
 }

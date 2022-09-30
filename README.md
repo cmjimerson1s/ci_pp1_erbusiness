@@ -41,6 +41,7 @@
 
 ### User Goals
 -Find a fun place to participate in a team building activity
+<br>
 -Learn about the different games and difficulties
 -Find information about the business location and staff
 -Be able to request a date and time for an event

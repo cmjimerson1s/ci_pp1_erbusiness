@@ -167,10 +167,18 @@ The site contains five pages and eleven features, as follow:
 <details><summary>Home</summary>
     <img src="docs/validated/w3c_home.png">
 </details>
-    About
-    Rooms
-    Contact
-    Book Now!
+<details><summary>About</summary>
+    <img src="docs/validated/w3c_staff.png">
+</details>
+<details><summary>Rooms</summary>
+    <img src="docs/validated/w3c_rooms.png">
+</details>
+<details><summary>Contact</summary>
+    <img src="docs/validated/w3c_contact.png">
+</details>
+<details><summary>Book Now!</summary>
+    <img src="docs/validated/w3c_booking.png">
+</details>
     
 ### CSS Validation
     Utilizing W3C Jigsaw CSS Validation, the whole CSS file passed without errors or warnings

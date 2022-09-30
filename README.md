@@ -162,7 +162,7 @@ The site contains five pages and eleven features, as follow:
 ## Validation
 
 ### HTML Validation
-    Utilizing W3C HTML Validation, (link) all pages pass with no errors
+Utilizing W3C HTML Validation, (link) all pages pass with no errors
 
 <details><summary>Home</summary>
     <img src="docs/validated/w3c_home.png">
@@ -181,7 +181,11 @@ The site contains five pages and eleven features, as follow:
 </details>
     
 ### CSS Validation
-    Utilizing W3C Jigsaw CSS Validation, the whole CSS file passed without errors or warnings
+Utilizing W3C Jigsaw CSS Validation, the whole CSS file passed without errors or warnings
+
+<details><summary>Validation style.css</summary>
+<img src="docs/validated/css_valid.png>
+</details>
 
 ### Accessibility Validation 
     WAVE WebAIM was used to evaluate the accessibility of the website and every page passed with 0 errors and 0 contrast errors

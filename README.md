@@ -187,7 +187,7 @@ Utilizing W3C Jigsaw CSS Validation, the whole CSS file passed without errors or
 <img src="docs/validated/css_valid.png">
 </details>
 
-### Accessibility 
+### Accessibility Validation
 WAVE WebAIM was used to evaluate the accessibility of the website and every page passed with 0 errors and 0 contrast errors
 
 <details><summary>Home</summary>

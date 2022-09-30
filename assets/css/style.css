@@ -198,6 +198,22 @@ button a {
     border: 3px solid black;
 }
 
+.level {
+    width: 100%;
+    height: 15%;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.level h5 {
+    font-family: 'Staatliches', cursive;
+    color: rgb(205, 127, 50);
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: 2px;
+    text-shadow: 1px 1px aliceblue;
+    
+}
+
 #room_img_pirate {
     background-image: url('../images/pirate.jpg');
     background-repeat: no-repeat;

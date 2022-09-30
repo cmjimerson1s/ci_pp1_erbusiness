@@ -184,7 +184,7 @@ Utilizing W3C HTML Validation, (link) all pages pass with no errors
 Utilizing W3C Jigsaw CSS Validation, the whole CSS file passed without errors or warnings
 
 <details><summary>Validation style.css</summary>
-<img src="docs/validated/css_valid.png>
+<img src="docs/validated/css_valid.png">
 </details>
 
 ### Accessibility 

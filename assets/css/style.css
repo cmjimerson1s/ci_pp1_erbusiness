@@ -376,9 +376,9 @@ header {
 
 #hours_table th {
     background-color: rgb(205, 127, 50);
-    color: aliceblue;
+    color: black;
     border: 1px solid black;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 1px aliceblue;
 }
 
 td:first-child {

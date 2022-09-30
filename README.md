@@ -27,7 +27,7 @@
 6. [Testing](#validation)
     1. [HTML Validation](#HTML-validation)
     2. [CSS Validation](#CSS-validation)
-    3. [Accessibility Validation](#accessibility)
+    3. [Accessibility](#accessibility)
     4. [Performance](#performance)
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatability)
@@ -187,7 +187,7 @@ Utilizing W3C Jigsaw CSS Validation, the whole CSS file passed without errors or
 <img src="docs/validated/css_valid.png>
 </details>
 
-### Accessibility Validation 
+### Accessibility 
 WAVE WebAIM was used to evaluate the accessibility of the website and every page passed with 0 errors and 0 contrast errors
 
 <details><summary>Home</summary>

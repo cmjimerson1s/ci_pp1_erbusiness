@@ -448,6 +448,55 @@ footer a {
         font-size: 25px;
     }
 
+    .contact_container {
+        margin: 25px 0 120px 0;
+        font-size: larger;
+    }
+
+    .bottom_box {
+        margin: 30x 0 0 0;
+    }
+}
+
+@media (max-width: 415px) and (min-height: 825px) {
+
+    #logo {
+        font-size: 18px;
+        text-shadow: 2px 2px aliceblue;
+    }
+
+    #page_links li {
+        font-size: 17px;
+    }
+}
+
+@media (max-width: 280px) and (min-height: 653px) {
+
+    #logo {
+        font-size: 15px;
+        text-shadow: 2px 2px aliceblue;
+    }
+
+    #page_links li {
+        font-size: 12px;
+    }
+
+    .room_desc {
+        font-size: 13.5px;
+        margin: 25px 0;
+    }
+
+    .contact_container {
+        margin: 25px 0 50px 0;
+    }
+}
+
+@media (max-width: 912px) and (min-height: 1368px ) {
+
+    .contact_container {
+        font-size: 28px;
+        margin: 60px 0 240px 0;
+    }
 }
 
 @media screen and (min-width: 900px) {

@@ -1,7 +1,10 @@
 # The Escapists
 (Developer: Christopher Jimerson)
 
-(/docs/responsive.png)
+![Responsive Image](/docs/responsive.png)
+
+![Live Site](https://cmjimerson1s.github.io/ci_pp1_erbusiness/) 
+
 ## Table of Content
 
 1. [Project Goals](#project-goals)

@@ -403,10 +403,7 @@ footer a {
 /* Media inquires for more responsive design below */
 
 @media screen and (min-height: 825px ) {
-    /* #home_hr {
-        height: 25vh;
-        width: 100%;
-    } */
+
     #logo {
         font-size: 25px;
         text-shadow: 2px 2px aliceblue;

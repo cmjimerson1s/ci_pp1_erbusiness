@@ -3,7 +3,7 @@
 
 ![Responsive Image](/docs/responsive.png)
 
-![Live Site](https://cmjimerson1s.github.io/ci_pp1_erbusiness/) 
+[Live Site](https://cmjimerson1s.github.io/ci_pp1_erbusiness/) 
 
 ## Table of Content
 
@@ -40,10 +40,10 @@
 ## Project Goals 
 
 ### User Goals
-    -Find a fun place to participate in a team building activity
-	-Learn about the different games and difficulties
-	-Find information about the business location and staff
-	-Be able to request a date and time for an event
+-Find a fun place to participate in a team building activity
+-Learn about the different games and difficulties
+-Find information about the business location and staff
+-Be able to request a date and time for an event
 
 ### Site Owner Goals
     -Educate site visitors on what an escape room is
@@ -158,7 +158,9 @@ The site contains five pages and eleven features, as follow:
 ### HTML Validation
     Utilizing W3C HTML Validation, (link) all pages pass with no errors
 
-    Home
+<details><summary>Home</summary>
+    <img src="docs/validated/w3c_home.png">
+</details>
     About
     Rooms
     Contact

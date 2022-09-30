@@ -1,3 +1,7 @@
+# The Escapists
+(Developer: Christopher Jimerson)
+
+(/docs/responsive.png)
 ## Table of Content
 
 1. [Project Goals](#project-goals)

@@ -188,25 +188,45 @@ Utilizing W3C Jigsaw CSS Validation, the whole CSS file passed without errors or
 </details>
 
 ### Accessibility Validation 
-    WAVE WebAIM was used to evaluate the accessibility of the website and every page passed with 0 errors and 0 contrast errors
+WAVE WebAIM was used to evaluate the accessibility of the website and every page passed with 0 errors and 0 contrast errors
 
-    Home
-    About
-    Rooms
-    Contact
-    Book Now!
+<details><summary>Home</summary>
+    <img src="docs/validated/wave_home.png">
+</details>
+<details><summary>About</summary>
+    <img src="docs/validated/wave_staff.png">
+</details>
+<details><summary>Rooms</summary>
+    <img src="docs/validated/wave_rooms.png">
+</details>
+<details><summary>Contact</summary>
+    <img src="docs/validated/wave_contact.png">
+</details>
+<details><summary>Book Now!</summary>
+    <img src="docs/validated/wave_booking.png">
+</details>
 
 ### Performance
-    Utilizing Google Lighthouse through the Google Chrome Developer toolset all pages were tested for performance, with every page succeeding in a rating of over 90 for every category.
+Utilizing Google Lighthouse through the Google Chrome Developer toolset all pages were tested for performance, with every page succeeding in a rating of over 90 for every category.
 
-    Home
-    About
-    Rooms
-    Contact
-    Book Now!
+<details><summary>Home</summary>
+    <img src="docs/validated/perf_home.png">
+</details>
+<details><summary>About</summary>
+    <img src="docs/validated/perf_staff.png">
+</details>
+<details><summary>Rooms</summary>
+    <img src="docs/validated/perf_rooms.png">
+</details>
+<details><summary>Contact</summary>
+    <img src="docs/validated/perf_contact.png">
+</details>
+<details><summary>Book Now!</summary>
+    <img src="docs/validated/perf_booking.png">
+</details>
 
 ### Performing tests on various devices 
-    The website was testing on the following devices
+The website was testing on the following devices
 
 	Samsung S10
 	Iphone 8

@@ -102,25 +102,37 @@ header {
 
 /* Home Page Call to Action Book Now Button */
 
-.book_now {
-    display: flex;
-    justify-content: center;
-}
+    .button_container_main {
+        width: 100%;
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
-button {
-    font-family: 'Staatliches', cursive;
-    letter-spacing: 2px;
-    background-color: rgb(205, 127, 50);
-    border: 2px solid black;
-    margin: 25px 0 ;
-    padding: 12px;
-}
+    .button_home {
+        display: flex;
+        width: 150px;
+        height: 50px;
+        background-color: rgb(205, 127, 50);
+    
+    }
 
-button a {
-    text-decoration: none;
-    color: aliceblue;
-    text-shadow: 1px 1px black;
-}
+    #cta_button {
+        width: 100%;
+        height: 100%;
+    }
+
+    .cta_link {
+        font-family: 'Staatliches', cursive;
+        letter-spacing: 2px;
+        font-size: 23px;
+        display: flex;
+        text-decoration: none;
+        justify-content: center;
+        align-items: center;
+        color: black;
+    }
 
 /* About page starts here */
 

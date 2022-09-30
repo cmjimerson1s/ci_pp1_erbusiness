@@ -43,14 +43,19 @@
 -Find a fun place to participate in a team building activity
 <br>
 -Learn about the different games and difficulties
+<br>
 -Find information about the business location and staff
+<br>
 -Be able to request a date and time for an event
 
 ### Site Owner Goals
-    -Educate site visitors on what an escape room is
-	-Give operating hours and location so customers may visit business
-	-Show the games the business has designed
-	-Allow interested parties to request booking
+-Educate site visitors on what an escape room is
+<br>
+-Give operating hours and location so customers may visit business
+<br>
+-Show the games the business has designed
+<br>
+-Allow interested parties to request booking
 
 ## User Experience
 

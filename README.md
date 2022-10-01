@@ -74,16 +74,16 @@
 
 ### User Stories
 
-    1. As Janice, I want to know what an escape room, is so I can decide if I want to try it	
-    2. As Steven, I want to know where you're located, so I can plan my night out with my friends in a better way	
-    3. As Oskar, I want to know what rooms you have,	so I can pick the best theme for my birthday party	
-    4. As Leo,	I want to be able to book your rooms, so	I can have a fun event	
-    5. As Adam, I want to know the story of the rooms, 	so I can choose the most fun room to me	
-    6. As Ryan, I want to how and when I can contact you, so I can adjust my event if I need to	
-    7. As an enthusiast, I want to understand who is apart of the company, so I can support other endeavors by the creators	    
-    8. As a manager, I want to	know if this activity is good for my team,	so I can plan a fun team building activity	
-    9. As a gamer, I want to how difficult the rooms are	so, I can give myself the greatest challenge	
-    10. As a happy customer, I want to review your business, so	I can tell people what a fun time I had	
+1. As Janice, I want to know what an escape room, is so I can decide if I want to try it	
+2. As Steven, I want to know where you're located, so I can plan my night out with my friends in a better way	
+3. As Oskar, I want to know what rooms you have,	so I can pick the best theme for my birthday party	
+4. As Leo,	I want to be able to book your rooms, so	I can have a fun event	
+5. As Adam, I want to know the story of the rooms, 	so I can choose the most fun room to me	
+6. As Ryan, I want to how and when I can contact you, so I can adjust my event if I need to	
+7. As an enthusiast, I want to understand who is apart of the company, so I can support other endeavors by the creators	    
+8. As a manager, I want to	know if this activity is good for my team,	so I can plan a fun team building activity	
+9. As a gamer, I want to how difficult the rooms are	so, I can give myself the greatest challenge	
+10. As a happy customer, I want to review your business, so	I can tell people what a fun time I had	
 
 ## Design
 
@@ -127,37 +127,59 @@ The site contains five pages and eleven features, as follow:
 Has titles for all 5 pages listed
 It runs horizontal across the middle of the pages and is easy to use and navigate
 
+![Logo and Nav](docs/feature/feat_logo_nav.png)
+
 ### What is… definitions
 Helps define what an escape room is
 Clarifies for customers who are unaware the additional benefits of the room
+
+![What is.. definitoins](docs/feature/feat_what_is.png)
 	
 ### Reasons for Bookings
 The list helps outline why an escape room game is perfect for a variety of individuals
 The lists acts like an arrow for different browsers drawing attention to the call to action book now button
+
+![Reasons for Bookings](docs/feature/feat_reasons.png)
 		
 ### Book Now buttons
 These buttons are in a few locations across the site offering multiple opportunities for customers to book, hopefully to increase conversion
+
+![Book Now buttons](docs/feature/feat_booknow.png)
 		
 ### List of Staff
 The list provides a view of the individuals paramount to the operations of the business
-		
+
+![List of Staff](docs/feature/feat_staff.png)
+
 ### Rooms List
 These cards highlight the theme, the story, and the difficulty of the room while also allowing customers to be taken straight to the booking form
+
+![Rooms List](docs/feature/feat_rooms.png)
 		
 ### Difficulty Listings
 These are visible and listed above the images so ensure visibility and to help players choose the correct rooms for their event
+
+![Difficulty Listings](docs/feature/feat_difficulty.png)
 	
 ### Business Information
 The operation hours show the days the business is operating, and the times. The phone number and email are visible as well, with the business address above the pinned map.
+
+![Business Information](docs/feature/feat_business_info.png)
 		
 ### Google Maps
 Interactive map that allows a customer to see the location of the business and navigate the Google Maps snippet
+
+![Google Maps](docs/feature/feat_google_map.png)
 		
 ### Booking Request Form
 This allows the customer to make a booking, the contact pages shows the times and dates that are available to the customer
 
+![Booking Request Form](docs/feature/feat_booking.png)
+
 ### Footer
 The footer is shared across all pages and has links to the social media pages of the business, including facebook and google which are the main review platforms for many escape rooms.
+
+![Footer](docs/feature/feat_footer.png)
 
 ## Validation
 

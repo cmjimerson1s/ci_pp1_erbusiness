@@ -183,7 +183,7 @@ User stories covered: 7
 ### Rooms List
 These cards highlight the theme, the story, and the difficulty of the room while also allowing customers to be taken straight to the booking form
 <br>
-User stories covered: 3
+User stories covered: 3, 5
 
 ![Rooms List](docs/feature/feat_rooms.png)
 		
@@ -314,6 +314,10 @@ Microsoft Edge
 |-------------|------------|---------------------|-------------------|
 | What is… definitions  | Navigate to Home page | Read a description of what an escape room is | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="docs/tests/test_01.png">
+</details>
+
 
 2. As Steven, I want to know where you're located, so I can plan my night out with my friends in a better way	
 
@@ -321,12 +325,20 @@ Microsoft Edge
 |-------------|------------|---------------------|-------------------|
 | Google Maps | Navigate to Contact page, and scroll to bottom of section | Find a Google Map snippet showing pinned location of the business | Works as expected  |
 
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
 
 3. As Oskar, I want to know what rooms you have, so I can pick the best theme for my birthday party	
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Rooms List | Navigate to the Rooms page | Find a list of rooms, with descriptions, to help in selection | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
 
 
 4. As Leo,	I want to be able to book your rooms, so I can have a fun event	
@@ -336,18 +348,30 @@ Microsoft Edge
 | Booking Request Form | Navigate to Book Now page  | Find a form that allows a booking to be placed with requested date, time, and rooms | Worked as expected |
 | Book Now Buttons | Located buttons on Home and Room page, clicking will navigate to Book Now page | By clicking on the button, it will navigate to the area of the site where a booking request may be done | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
 5. As Adam, I want to know the story of the rooms, 	so I can choose the most fun room to me	
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Rooms List | Navigate to the Rooms page | Find a list of rooms, with descriptions, to help in selection | Works as expected |
-|
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
 
 6. As Ryan, I want to how and when I can contact you, so I can adjust my event if I need to	
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Business Information | Navigate to the Contact page | Find information on operating hours, as well as contact phone number and email address | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
 
 
 7. As an enthusiast, I want to understand who is apart of the company, so I can support other endeavors by the creators	
@@ -356,12 +380,20 @@ Microsoft Edge
 |-------------|------------|---------------------|-------------------|
 | List of Staff | Navigate to the About page | Find a list of the people who make up the company | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
 
 8. As a manager, I want to	know if this activity is good for my team,	so I can plan a fun team building activity	
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Reasons for Bookings | Navigate to Home page | Find information on if teamwork is required for this game | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
 
 
 9. As a gamer, I want to how difficult the rooms are	so, I can give myself the greatest challenge	
@@ -370,12 +402,20 @@ Microsoft Edge
 |-------------|------------|---------------------|-------------------|
 | Difficulty Listings | Navigate to Room page | Find some information on the different difficulties of each of the rooms | Works as expected |
 
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
 
 10. As a happy customer, I want to review your business, so	I can tell people what a fun time I had	
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer | Scroll to the bottom of any of the pages to view icon links | Find links to websites that have review platforms, such as Facebook or Google | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
 
 
 ## Bugs

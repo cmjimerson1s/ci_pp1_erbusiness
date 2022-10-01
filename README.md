@@ -145,7 +145,7 @@ The structure of the website is reminiscent of many other layouts allowing for i
 </details>
 
 
-## Technology Used
+## Technologies Used
 
 ### Languages
 -HTML

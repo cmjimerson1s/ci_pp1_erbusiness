@@ -228,20 +228,20 @@ Utilizing Google Lighthouse through the Google Chrome Developer toolset all page
 ### Performing tests on various devices 
 The website was testing on the following devices
 
-	Samsung S10
-	Iphone 8
-	Samsung S22
-	Galaxy Tab
-	Lenovo Legion 16.9 inch Laptop
+Samsung S10
+Iphone 8
+Samsung S22
+Galaxy Tab
+Lenovo Legion 16.9 inch Laptop
 
-    The site was also tested using the many emulated devices through the use of Google Chrome Developer Tools
+The site was also tested using the many emulated devices through the use of Google Chrome Developer Tools
 
 ### Browser compatability
-    The website was evaluated and tested on the following browswers below:
+The website was evaluated and tested on the following browswers below:
 
-    Mozilla Firefox
-	Chrome
-	Microsoft Edge
+Mozilla Firefox
+Chrome
+Microsoft Edge
 
 ### Testing user stories
 
@@ -329,14 +329,14 @@ The website was deployed using GitHub Pages by following these steps:
 
 ### Media
 
-hero_image_small
-ceo_profile_pic
-cmo_profile_pic
-cto_profile_pic
-pirate
-zombie
-alien
-puzzle_background_small
+[hero_image_small](assets/images/hero_image_small_size.jpg): Photo by <a href="https://www.pexels.com/@giallo/">Giallo</a> on <a href="https://www.pexels.com/photo/assorted-silver-colored-pocket-watch-lot-selective-focus-photo-859895/">Pexels</a>
+[ceo_profile_pic](assets/images/ceo_profile_pic_small.jpg): Photo by <a href="https://www.pexels.com/@emmy-e-1252107/">Emmy E</a> on <a href="https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/">Pexels</a>
+[cmo_profile_pic](assets/images/cmo_profile_pic_small.jpg): Photo by <a href="https://www.pexels.com/@imalimadad/">Ali Madad Sakhirani</a> on <a href="https://www.pexels.com/photo/man-wearing-black-notched-lapel-suit-jacket-997512/">Pexels</a>
+[cto_profile_pic](assets/images/cto_profile_pic_small.jpg) Photo by <a href="https://www.pexels.com/@olly/">Andrea Piacquadio</a> on <a href="https://www.pexels.com/photo/woman-in-black-tank-top-holding-white-ceramic-cup-3779760/"></a>
+[pirate](assets/images/pirate.jpg) Photo by <a href="https://pixabay.com/users/mastertux-470906/">MasterTux</a> on <a href="https://pixabay.com/photos/adventure-treasure-map-old-world-map-2528477/">Pixabay</a>
+[zombie](assets/images/zombie.jpg) Photo by <a href="https://www.pexels.com/@cottonbro/">CottonBro</a> on <a href="https://www.pexels.com/photo/zombies-behind-shabby-door-5435562/">Pexels</a>
+[alien](assets/images/alien.jpg) Photo by <a href="https://pixabay.com/users/pawel86-4538278/">Pawel86</a> on <a href="https://pixabay.com/photos/ufo-alien-guy-pozaziemianin-2413965/">Pixabay</a>
+[puzzle_background_small](assets/images/puzzle_background_small.jpg): Photo by <a href="https://unsplash.com/@melpoole">Mel Poole</a> on <a href="https://unsplash.com/photos/eo5Hrzyb4D0">Unsplash</a>
 
 ### Code
 

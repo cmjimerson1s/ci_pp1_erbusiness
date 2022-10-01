@@ -509,7 +509,7 @@ You can clone the repository by following these steps:
 [hero_image_small](assets/images/hero_image_small_size.jpg): Photo by <a href="https://www.pexels.com/@giallo/">Giallo</a> on <a href="https://www.pexels.com/photo/assorted-silver-colored-pocket-watch-lot-selective-focus-photo-859895/">Pexels</a>
 <br>
 [ceo_profile_pic](assets/images/ceo_profile_pic_small.jpg): Photo by <a href="https://www.pexels.com/@emmy-e-1252107/">Emmy E</a> on <a href="https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/">Pexels</a>
-<br
+<br>
 [cmo_profile_pic](assets/images/cmo_profile_pic_small.jpg): Photo by <a href="https://www.pexels.com/@imalimadad/">Ali Madad Sakhirani</a> on <a href="https://www.pexels.com/photo/man-wearing-black-notched-lapel-suit-jacket-997512/">Pexels</a>
 <br>
 [cto_profile_pic](assets/images/cto_profile_pic_small.jpg) Photo by <a href="https://www.pexels.com/@olly/">Andrea Piacquadio</a> on <a href="https://www.pexels.com/photo/woman-in-black-tank-top-holding-white-ceramic-cup-3779760/"></a>

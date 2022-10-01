@@ -108,11 +108,15 @@ The structure of the website is reminiscent of many other layouts allowing for i
 <br>
 -Home: A homepage with a section defining escape rooms and listing reasons the user should choose the business. 
 <br>
+<br>
 -About: A page that names the C-Suite of the company, with accompanied photos of the individuals.
 <br>
--Rooms: This page shows the three rooms the business has to offer, along with a description of each, and a difficulty level. 
+<br>
+-Rooms: This page shows the three rooms the business has to offer, along with a description of each, and a difficulty level.
+<br> 
 <br>
 -Contact: A page containing important operating information such as operating hours, phone, email, and business location with a Google Map pin. 
+<br>
 <br>
 -Book Now: This is a form that allows customers to request a time and date for a booking as well as which rooms they would like to reserve.
 

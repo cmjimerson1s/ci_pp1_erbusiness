@@ -152,6 +152,8 @@ It runs horizontal across the middle of the pages and is easy to use and navigat
 Helps define what an escape room is
 <br>
 Clarifies for customers who are unaware the additional benefits of the room
+<br>
+User stories covered: 1
 
 ![What is.. definitoins](docs/feature/feat_what_is.png)
 	
@@ -159,46 +161,64 @@ Clarifies for customers who are unaware the additional benefits of the room
 The list helps outline why an escape room game is perfect for a variety of individuals
 <br>
 The lists acts like an arrow for different browsers drawing attention to the call to action book now button
+<br>
+User stories covered: 8
 
 ![Reasons for Bookings](docs/feature/feat_reasons.png)
 		
 ### Book Now buttons
 These buttons are in a few locations across the site offering multiple opportunities for customers to book, hopefully to increase conversion
+<br>
+User stories covered: 4
 
 ![Book Now buttons](docs/feature/feat_booknow.png)
 		
 ### List of Staff
 The list provides a view of the individuals paramount to the operations of the business
+<br>
+User stories covered: 7
 
 ![List of Staff](docs/feature/feat_staff.png)
 
 ### Rooms List
 These cards highlight the theme, the story, and the difficulty of the room while also allowing customers to be taken straight to the booking form
+<br>
+User stories covered: 3
 
 ![Rooms List](docs/feature/feat_rooms.png)
 		
 ### Difficulty Listings
 These are visible and listed above the images so ensure visibility and to help players choose the correct rooms for their event
+<br>
+User stories covered: 9
 
 ![Difficulty Listings](docs/feature/feat_difficulty.png)
 	
 ### Business Information
 The operation hours show the days the business is operating, and the times. The phone number and email are visible as well, with the business address above the pinned map.
+<br>
+User stories covered: 6
 
 ![Business Information](docs/feature/feat_business_info.png)
 		
 ### Google Maps
 Interactive map that allows a customer to see the location of the business and navigate the Google Maps snippet
+<br>
+User stories covered: 2
 
 ![Google Maps](docs/feature/feat_google_map.png)
 		
 ### Booking Request Form
 This allows the customer to make a booking, the contact pages shows the times and dates that are available to the customer
+<br>
+User stories covered: 4
 
 ![Booking Request Form](docs/feature/feat_booking.png)
 
 ### Footer
 The footer is shared across all pages and has links to the social media pages of the business, including facebook and google which are the main review platforms for many escape rooms.
+<br>
+User stories covered: 10
 
 ![Footer](docs/feature/feat_footer.png)
 

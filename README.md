@@ -291,26 +291,26 @@ Utilizing Google Lighthouse through the Google Chrome Developer toolset all page
 ### Performing tests on various devices 
 The website was testing on the following devices
 
-Samsung S10
+-Samsung S10
 <br>
-Iphone 8
+-Iphone 8
 <br>
-Samsung S22
+-Samsung S22
 <br>
-Galaxy Tab
+-Galaxy Tab
 <br>
-Lenovo Legion 16.9 inch Laptop
+-Lenovo Legion 16.9 inch Laptop
 
 The site was also tested using the many emulated devices through the use of Google Chrome Developer Tools
 
 ### Browser compatability
 The website was evaluated and tested on the following browswers below:
 
-Mozilla Firefox
+-Mozilla Firefox
 <br>
-Chrome
+-Chrome
 <br>
-Microsoft Edge
+-Microsoft Edge
 
 ### Testing user stories
 

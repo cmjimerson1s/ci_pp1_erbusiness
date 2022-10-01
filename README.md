@@ -451,6 +451,15 @@ The website was deployed using GitHub Pages by following these steps:
 
 -The Google Maps code snippet was provided by the service https://www.embed-map.com/ 
 
+## Acknowledgements
+This has been an amazing experience, and I have many people to thank...
+<br>
+My mentor, Mo Shami, has been a great source of information and has helped me quite a bit. Truly above and beyond.
+<br>
+My husband, Leo, he's done so much to help me be able to devote the time to this project.
+<br>
+My housemate and very good friend, Trevor, who has really been amazing in helping around the house to let me have the time to do this project
+
 
 
 

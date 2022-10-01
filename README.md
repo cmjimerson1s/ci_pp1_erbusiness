@@ -292,9 +292,13 @@ Utilizing Google Lighthouse through the Google Chrome Developer toolset all page
 The website was testing on the following devices
 
 Samsung S10
+<br>
 Iphone 8
+<br>
 Samsung S22
+<br>
 Galaxy Tab
+<br>
 Lenovo Legion 16.9 inch Laptop
 
 The site was also tested using the many emulated devices through the use of Google Chrome Developer Tools
@@ -303,7 +307,9 @@ The site was also tested using the many emulated devices through the use of Goog
 The website was evaluated and tested on the following browswers below:
 
 Mozilla Firefox
+<br>
 Chrome
+<br>
 Microsoft Edge
 
 ### Testing user stories
@@ -326,7 +332,7 @@ Microsoft Edge
 | Google Maps | Navigate to Contact page, and scroll to bottom of section | Find a Google Map snippet showing pinned location of the business | Works as expected  |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="docs/tests/test_02.png">
 </details>
 
 
@@ -337,7 +343,7 @@ Microsoft Edge
 | Rooms List | Navigate to the Rooms page | Find a list of rooms, with descriptions, to help in selection | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="docs/tests/test_03_05.png">
 </details>
 
 
@@ -349,7 +355,7 @@ Microsoft Edge
 | Book Now Buttons | Located buttons on Home and Room page, clicking will navigate to Book Now page | By clicking on the button, it will navigate to the area of the site where a booking request may be done | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="docs/tests/test_04.png">
 </details>
 
 5. As Adam, I want to know the story of the rooms, 	so I can choose the most fun room to me	
@@ -359,7 +365,7 @@ Microsoft Edge
 | Rooms List | Navigate to the Rooms page | Find a list of rooms, with descriptions, to help in selection | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="docs/tests/test_03_05.png">
 </details>
 
 
@@ -370,7 +376,7 @@ Microsoft Edge
 | Business Information | Navigate to the Contact page | Find information on operating hours, as well as contact phone number and email address | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="docs/tests/test_06.png">
 </details>
 
 
@@ -381,7 +387,7 @@ Microsoft Edge
 | List of Staff | Navigate to the About page | Find a list of the people who make up the company | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="docs/tests/test_07.png">
 </details>
 
 
@@ -392,7 +398,7 @@ Microsoft Edge
 | Reasons for Bookings | Navigate to Home page | Find information on if teamwork is required for this game | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="docs/tests/test_08.png">
 </details>
 
 
@@ -403,7 +409,7 @@ Microsoft Edge
 | Difficulty Listings | Navigate to Room page | Find some information on the different difficulties of each of the rooms | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="docs/tests/test_09.png">
 </details>
 
 
@@ -414,7 +420,7 @@ Microsoft Edge
 | Footer | Scroll to the bottom of any of the pages to view icon links | Find links to websites that have review platforms, such as Facebook or Google | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="docs/tests/test_10.png">
 </details>
 
 

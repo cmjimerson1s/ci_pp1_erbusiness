@@ -5,7 +5,7 @@
 
 [Live Site](https://cmjimerson1s.github.io/ci_pp1_erbusiness/) 
 
-## Table of Content
+## Table of Contents
 
 1. [Project Goals](#project-goals)
     1. [User Goals](#user-goals)

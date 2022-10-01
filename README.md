@@ -61,15 +61,22 @@
 
 ### Target Audience
 -Corporations looking for team building activities
+<br>
 -Private persons looking for a fun event
+<br>
 -Enthusiasts of the Escape Room industry
 
 ### User Requrements and Expectations
 -Ease in requesting event date and time
+<br>
 -Explanation of the theme of the different rooms
+<br>
 -Consistent navigation through the site
+<br>
 -Multiple opportunities to navigate to booking form
+<br>
 -Accessibility and easy to consume content
+<br>
 -Images and design that entices or evokes fun
 
 ### User Stories
@@ -98,10 +105,15 @@ Bold uppercase font Staatliches is used for the titles, and logo. It leans into 
 
 ### Structure
 The structure of the website is reminiscent of many other layouts allowing for innate intuitive traversal across the five pages that make up the site. Each page has the company logo, navigation links, and a footer that are identical and shared across all pages to allow cohesion to the user experience. The pages are as follows, following from the left to the right across the navigation bar…
+<br>
 -Home: A homepage with a section defining escape rooms and listing reasons the user should choose the business. 
+<br>
 -About: A page that names the C-Suite of the company, with accompanied photos of the individuals.
+<br>
 -Rooms: This page shows the three rooms the business has to offer, along with a description of each, and a difficulty level. 
+<br>
 -Contact: A page containing important operating information such as operating hours, phone, email, and business location with a Google Map pin. 
+<br>
 -Book Now: This is a form that allows customers to request a time and date for a booking as well as which rooms they would like to reserve.
 
 ### Wireframes
@@ -110,14 +122,20 @@ The structure of the website is reminiscent of many other layouts allowing for i
 
 ### Languages
 -HTML
+<br>
 -CSS
 
 ### Frameworks and Tools
 -GitPod
+<br>
 -GitHub
+<br>
 -Font Awesome
+<br>
 -Google Fonts
+<br>
 -Google Maps
+<br>
 -Favicon
 
 ## Features
@@ -125,18 +143,21 @@ The site contains five pages and eleven features, as follow:
 
 ### Logo and Nav
 Has titles for all 5 pages listed
+<br>
 It runs horizontal across the middle of the pages and is easy to use and navigate
 
 ![Logo and Nav](docs/feature/feat_logo_nav.png)
 
 ### What is… definitions
 Helps define what an escape room is
+<br>
 Clarifies for customers who are unaware the additional benefits of the room
 
 ![What is.. definitoins](docs/feature/feat_what_is.png)
 	
 ### Reasons for Bookings
 The list helps outline why an escape room game is perfect for a variety of individuals
+<br>
 The lists acts like an arrow for different browsers drawing attention to the call to action book now button
 
 ![Reasons for Bookings](docs/feature/feat_reasons.png)

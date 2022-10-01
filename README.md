@@ -164,6 +164,8 @@ The structure of the website is reminiscent of many other layouts allowing for i
 -Google Maps
 <br>
 -Favicon
+<br>
+Balsamiq
 
 ## Features
 The site contains five pages and eleven features, as follow:

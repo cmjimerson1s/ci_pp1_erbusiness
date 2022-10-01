@@ -81,15 +81,15 @@
 
 ### User Stories
 
-1. As Janice, I want to know what an escape room, is so I can decide if I want to try it	
+1. As Janice, I want to know what an escape room is, so I can decide if I want to try it	
 2. As Steven, I want to know where you're located, so I can plan my night out with my friends in a better way	
-3. As Oskar, I want to know what rooms you have,	so I can pick the best theme for my birthday party	
-4. As Leo,	I want to be able to book your rooms, so	I can have a fun event	
-5. As Adam, I want to know the story of the rooms, 	so I can choose the most fun room to me	
+3. As Oskar, I want to know what rooms you have, so I can pick the best theme for my birthday party	
+4. As Leo,	I want to be able to book your rooms, so I can have a fun event	
+5. As Adam, I want to know the story of the rooms, so I can choose the most fun room to me	
 6. As Ryan, I want to how and when I can contact you, so I can adjust my event if I need to	
 7. As an enthusiast, I want to understand who is apart of the company, so I can support other endeavors by the creators	    
 8. As a manager, I want to	know if this activity is good for my team,	so I can plan a fun team building activity	
-9. As a gamer, I want to how difficult the rooms are	so, I can give myself the greatest challenge	
+9. As a gamer, I want to how difficult the rooms are so, I can give myself the greatest challenge	
 10. As a happy customer, I want to review your business, so	I can tell people what a fun time I had
 11. As a user, I want to be able to get back to the home if a page isn't working, so I can continue to use the site.	
 
@@ -106,6 +106,7 @@ Bold uppercase font Staatliches is used for the titles, and logo. It leans into 
 
 ### Structure
 The structure of the website is reminiscent of many other layouts allowing for innate intuitive traversal across the five pages that make up the site. Each page has the company logo, navigation links, and a footer that are identical and shared across all pages to allow cohesion to the user experience. The pages are as follows, following from the left to the right across the navigation bar…
+<br>
 <br>
 -Home: A homepage with a section defining escape rooms and listing reasons the user should choose the business. 
 <br>

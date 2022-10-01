@@ -438,17 +438,37 @@ The website was deployed using GitHub Pages by following these steps:
 3. For the source select Branch: master
 4. After the webpage refreshes automaticaly you will se a ribbon on the top saying: "Your site is published at https://cmjimerson1s.github.io/ci_pp1_erbusiness/"
 
+You can for fork the repository by following these steps:
+1. Go to the GitHub repository
+2. Click on Fork button in upper right hand corner
+
+You can clone the repository by following these steps:
+1. Go to the GitHub repository 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash
+5. Change the current working directory to the one where you want the cloned directory
+6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+7. Press Enter to create your local clone.
+
 ## Credits
 
 ### Media
 
 [hero_image_small](assets/images/hero_image_small_size.jpg): Photo by <a href="https://www.pexels.com/@giallo/">Giallo</a> on <a href="https://www.pexels.com/photo/assorted-silver-colored-pocket-watch-lot-selective-focus-photo-859895/">Pexels</a>
+<br>
 [ceo_profile_pic](assets/images/ceo_profile_pic_small.jpg): Photo by <a href="https://www.pexels.com/@emmy-e-1252107/">Emmy E</a> on <a href="https://www.pexels.com/photo/woman-wearing-gray-notch-lapel-suit-jacket-2381069/">Pexels</a>
+<br
 [cmo_profile_pic](assets/images/cmo_profile_pic_small.jpg): Photo by <a href="https://www.pexels.com/@imalimadad/">Ali Madad Sakhirani</a> on <a href="https://www.pexels.com/photo/man-wearing-black-notched-lapel-suit-jacket-997512/">Pexels</a>
+<br>
 [cto_profile_pic](assets/images/cto_profile_pic_small.jpg) Photo by <a href="https://www.pexels.com/@olly/">Andrea Piacquadio</a> on <a href="https://www.pexels.com/photo/woman-in-black-tank-top-holding-white-ceramic-cup-3779760/"></a>
+<br>
 [pirate](assets/images/pirate.jpg) Photo by <a href="https://pixabay.com/users/mastertux-470906/">MasterTux</a> on <a href="https://pixabay.com/photos/adventure-treasure-map-old-world-map-2528477/">Pixabay</a>
+<br>
 [zombie](assets/images/zombie.jpg) Photo by <a href="https://www.pexels.com/@cottonbro/">CottonBro</a> on <a href="https://www.pexels.com/photo/zombies-behind-shabby-door-5435562/">Pexels</a>
+<br>
 [alien](assets/images/alien.jpg) Photo by <a href="https://pixabay.com/users/pawel86-4538278/">Pawel86</a> on <a href="https://pixabay.com/photos/ufo-alien-guy-pozaziemianin-2413965/">Pixabay</a>
+<br>
 [puzzle_background_small](assets/images/puzzle_background_small.jpg): Photo by <a href="https://unsplash.com/@melpoole">Mel Poole</a> on <a href="https://unsplash.com/photos/eo5Hrzyb4D0">Unsplash</a>
 
 ### Code

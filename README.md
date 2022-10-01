@@ -60,17 +60,17 @@
 ## User Experience
 
 ### Target Audience
-    -Corporations looking for team building activities
-	-Private persons looking for a fun event
-	-Enthusiasts of the Escape Room industry
+-Corporations looking for team building activities
+-Private persons looking for a fun event
+-Enthusiasts of the Escape Room industry
 
 ### User Requrements and Expectations
-    -Ease in requesting event date and time
-	-Explanation of the theme of the different rooms
-	-Consistent navigation through the site
-	-Multiple opportunities to navigate to booking form
-	-Accessibility and easy to consume content
-	-Images and design that entices or evokes fun
+-Ease in requesting event date and time
+-Explanation of the theme of the different rooms
+-Consistent navigation through the site
+-Multiple opportunities to navigate to booking form
+-Accessibility and easy to consume content
+-Images and design that entices or evokes fun
 
 ### User Stories
 
@@ -88,76 +88,76 @@
 ## Design
 
 ### Design Choices
-    The website is designed with engaging photos and a fun color scheme to try and evoke the feeling of excitement or adventure, while also drawing attention to the element of time constraints that are present in the base gameplay of the escape room experience. 
+The website is designed with engaging photos and a fun color scheme to try and evoke the feeling of excitement or adventure, while also drawing attention to the element of time constraints that are present in the base gameplay of the escape room experience. 
 
 ### Colour
-    The color choice is predominantly orange, with accents of black and white. Orange is a warm color that is associated with excitement, adventure, sunshine, and fun. It evokes a sense of high energy and invigoration that meets the pace that the escape room game usually has. It’s also contemplative, and shares in the need for thought and logic in solving the puzzle.
+The color choice is predominantly orange, with accents of black and white. Orange is a warm color that is associated with excitement, adventure, sunshine, and fun. It evokes a sense of high energy and invigoration that meets the pace that the escape room game usually has. It’s also contemplative, and shares in the need for thought and logic in solving the puzzle.
 
 ### Fonts
-    Bold uppercase font Staatliches is used for the titles, and logo. It leans into the modern nature of the escape room games, as it’s a new entertainment industry while also being striking against the font Raleway. Raleway makes up the bulk of the content, which is a font that is simplistic in it's design but still stylistic.
+Bold uppercase font Staatliches is used for the titles, and logo. It leans into the modern nature of the escape room games, as it’s a new entertainment industry while also being striking against the font Raleway. Raleway makes up the bulk of the content, which is a font that is simplistic in it's design but still stylistic.
 
 ### Structure
-    The structure of the website is reminiscent of many other layouts allowing for innate intuitive traversal across the five pages that make up the site. Each page has the company logo, navigation links, and a footer that are identical and shared across all pages to allow cohesion to the user experience. The pages are as follows, following from the left to the right across the navigation bar…
-	    -Home: A homepage with a section defining escape rooms and listing reasons the user should choose the business. 
-	    -About: A page that names the C-Suite of the company, with accompanied photos of the individuals.
-	    -Rooms: This page shows the three rooms the business has to offer, along with a description of each, and a difficulty level. 
-	    -Contact: A page containing important operating information such as operating hours, phone, email, and business location with a Google Map pin. 
-	    -Book Now: This is a form that allows customers to request a time and date for a booking as well as which rooms they would like to reserve.
+The structure of the website is reminiscent of many other layouts allowing for innate intuitive traversal across the five pages that make up the site. Each page has the company logo, navigation links, and a footer that are identical and shared across all pages to allow cohesion to the user experience. The pages are as follows, following from the left to the right across the navigation bar…
+-Home: A homepage with a section defining escape rooms and listing reasons the user should choose the business. 
+-About: A page that names the C-Suite of the company, with accompanied photos of the individuals.
+-Rooms: This page shows the three rooms the business has to offer, along with a description of each, and a difficulty level. 
+-Contact: A page containing important operating information such as operating hours, phone, email, and business location with a Google Map pin. 
+-Book Now: This is a form that allows customers to request a time and date for a booking as well as which rooms they would like to reserve.
 
 ### Wireframes
 
 ## Technology Used
 
 ### Languages
-    -HTML
-    -CSS
+-HTML
+-CSS
 
 ### Frameworks and Tools
-    -GitPod
-	-GitHub
-	-Font Awesome
-	-Google Fonts
-	-Google Maps
-    -Favicon
+-GitPod
+-GitHub
+-Font Awesome
+-Google Fonts
+-Google Maps
+-Favicon
 
 ## Features
 The site contains five pages and eleven features, as follow:
 
 ### Logo and Nav
-	Has titles for all 5 pages listed
-	It runs horizontal across the middle of the pages and is easy to use and navigate
+Has titles for all 5 pages listed
+It runs horizontal across the middle of the pages and is easy to use and navigate
 
 ### What is… definitions
-	Helps define what an escape room is
-	Clarifies for customers who are unaware the additional benefits of the room
+Helps define what an escape room is
+Clarifies for customers who are unaware the additional benefits of the room
 	
 ### Reasons for Bookings
-	The list helps outline why an escape room game is perfect for a variety of individuals
-	The lists acts like an arrow for different browsers drawing attention to the call to action book now button
+The list helps outline why an escape room game is perfect for a variety of individuals
+The lists acts like an arrow for different browsers drawing attention to the call to action book now button
 		
 ### Book Now buttons
-	These buttons are in a few locations across the site offering multiple opportunities for customers to book, hopefully to increase conversion
+These buttons are in a few locations across the site offering multiple opportunities for customers to book, hopefully to increase conversion
 		
 ### List of Staff
-	The list provides a view of the individuals paramount to the operations of the business
+The list provides a view of the individuals paramount to the operations of the business
 		
 ### Rooms List
-	These cards highlight the theme, the story, and the difficulty of the room while also allowing customers to be taken straight to the booking form
+These cards highlight the theme, the story, and the difficulty of the room while also allowing customers to be taken straight to the booking form
 		
 ### Difficulty Listings
-	These are visible and listed above the images so ensure visibility and to help players choose the correct rooms for their event
+These are visible and listed above the images so ensure visibility and to help players choose the correct rooms for their event
 	
 ### Business Information
-	The operation hours show the days the business is operating, and the times. The phone number and email are visible as well, with the business address above the pinned map.
+The operation hours show the days the business is operating, and the times. The phone number and email are visible as well, with the business address above the pinned map.
 		
 ### Google Maps
-	Interactive map that allows a customer to see the location of the business and navigate the Google Maps snippet
+Interactive map that allows a customer to see the location of the business and navigate the Google Maps snippet
 		
 ### Booking Request Form
-	This allows the customer to make a booking, the contact pages shows the times and dates that are available to the customer
+This allows the customer to make a booking, the contact pages shows the times and dates that are available to the customer
 
 ### Footer
-	The footer is shared across all pages and has links to the social media pages of the business, including facebook and google which are the main review platforms for many escape rooms.
+The footer is shared across all pages and has links to the social media pages of the business, including facebook and google which are the main review platforms for many escape rooms.
 
 ## Validation
 

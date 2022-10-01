@@ -90,7 +90,8 @@
 7. As an enthusiast, I want to understand who is apart of the company, so I can support other endeavors by the creators	    
 8. As a manager, I want to	know if this activity is good for my team,	so I can plan a fun team building activity	
 9. As a gamer, I want to how difficult the rooms are	so, I can give myself the greatest challenge	
-10. As a happy customer, I want to review your business, so	I can tell people what a fun time I had	
+10. As a happy customer, I want to review your business, so	I can tell people what a fun time I had
+11. As a user, I want to be able to get back to the home if a page isn't working, so I can continue to use the site.	
 
 ## Design
 
@@ -226,6 +227,13 @@ User stories covered: 10
 
 ![Footer](docs/feature/feat_footer.png)
 
+### 404 Page
+The 404 page allows users to know if they have navigated to a non-working or non-existing page on the site, and allows them to return to the main site easily.
+<br>
+User stories covered: 11
+
+![404 Page](docs/feature/feat_404.png)
+
 ## Validation
 
 ### HTML Validation
@@ -245,6 +253,9 @@ Utilizing W3C HTML Validation, (link) all pages pass with no errors
 </details>
 <details><summary>Book Now!</summary>
     <img src="docs/validated/w3c_booking.png">
+</details>
+<details><summary>404</summary>
+    <img src="docs/validated/w3c_404.png">
 </details>
     
 ### CSS Validation
@@ -272,6 +283,9 @@ WAVE WebAIM was used to evaluate the accessibility of the website and every page
 <details><summary>Book Now!</summary>
     <img src="docs/validated/wave_booking.png">
 </details>
+<details><summary>404</summary>
+    <img src="docs/validated/wave_404.png">
+</details>
 
 ### Performance
 Utilizing Google Lighthouse through the Google Chrome Developer toolset all pages were tested for performance, with every page succeeding in a rating of over 90 for every category.
@@ -290,6 +304,9 @@ Utilizing Google Lighthouse through the Google Chrome Developer toolset all page
 </details>
 <details><summary>Book Now!</summary>
     <img src="docs/validated/perf_booking.png">
+</details>
+<details><summary>404</summary>
+    <img src="docs/validated/perf_404.png">
 </details>
 
 ### Performing tests on various devices 
@@ -425,6 +442,16 @@ The website was evaluated and tested on the following browswers below:
 
 <details><summary>Screenshots</summary>
 <img src="docs/tests/test_10.png">
+</details>
+
+11. As a user, I want to be able to get back to the home if a page isn't working, so I can continue to use the site.	
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 404 Page  | Navigate to a broken/non-existent page| Access a broken/non-existent page, and using the link return to Home | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/tests/test_404.png">
 </details>
 
 

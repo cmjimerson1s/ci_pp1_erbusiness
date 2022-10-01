@@ -102,36 +102,36 @@ header {
 
 /* Home Page Call to Action Book Now Button */
 
-    .button_container_main {
-        width: 100%;
-        height: 100px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+.button_container_main {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-    .button_home {
-        display: flex;
-        width: 150px;
-        height: 50px;
-        background-color: black;
+.button_home {
+    display: flex;
+    width: 150px;
+    height: 50px;
+    background-color: black;
     
-    }
+}
 
-    .cta_button {
-        width: 100%;
-        height: 100%;
-    }
+.cta_button {
+    width: 100%;
+    height: 100%;
+}
 
-    .cta_link {
-        font-family: 'Staatliches', cursive;
-        letter-spacing: 2px;
-        font-size: 23px;
-        display: flex;
-        text-decoration: none;
-        justify-content: center;
-        align-items: center;
-    }
+.cta_link {
+    font-family: 'Staatliches', cursive;
+    letter-spacing: 2px;
+    font-size: 23px;
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
 
 /* About page starts here */
 
@@ -274,7 +274,6 @@ header {
 
 .button_container_main_rooms {
     width: 100%;
-    /* height: 100px; */
     display: flex;
     justify-content: center;
     align-items: center;

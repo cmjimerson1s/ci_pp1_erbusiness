@@ -123,6 +123,27 @@ The structure of the website is reminiscent of many other layouts allowing for i
 
 ### Wireframes
 
+<details><summary>Home</summary>
+<img src="docs/wireframe/wf_home.png">
+</details>
+
+<details><summary>About</summary>
+<img src="docs/wireframe/wf_about.png">
+</details>
+
+<details><summary>Rooms</summary>
+<img src="docs/wireframe/wf_room.png">
+</details>
+
+<details><summary>Contact</summary>
+<img src="docs/wireframe/wf_contact.png">
+</details>
+
+<details><summary>Book Now</summary>
+<img src="docs/wireframe/wf_book.png">
+</details>
+
+
 ## Technology Used
 
 ### Languages
